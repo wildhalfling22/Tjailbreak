@@ -1,0 +1,27 @@
+Package: Tjailbreak.github.io
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Wildhalfling22 <delongkris198@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
+Filename: debs//Appcon.deb
+Size: 157080
+MD5sum: 2a3743178c33d51ed7ec74e8cf935f39
+SHA1: 6c43e737b38ea3c3b69301ed14180866027d8d81
+Section: Tweaks
+Description: Set icon images from your photo library.
+Author: merdok
+Name: Appcon
+
+Package: Tjailbreak.github.io
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Wildhalfling22 <delongkris198@gmail.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: debs//BloonsTDBattles.deb
+Size: 7468278
+MD5sum: b885e6e6626ff7d6de734f6bb5863f33
+SHA1: f5f0d3973ca643a3212ffc076d3482cad4f7651f
+Section: Hacks
+Description: Bloons TD Battles Hacks And Cheats.
+Author: IOS Gods
+Name: BloonsTDBattles Hack
