@@ -3,7 +3,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 9.0)
-Filename: debs//Appcon.deb
+Filename: /debs/Appcon.deb
 Size: 157080
 MD5sum: 2a3743178c33d51ed7ec74e8cf935f39
 SHA1: 6c43e737b38ea3c3b69301ed14180866027d8d81
@@ -17,7 +17,7 @@ Version: idk
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate, preferenceloader
-Filename: debs//BloonsTDBattles.deb
+Filename: /debs/BloonsTDBattles.deb
 Size: 7468278
 MD5sum: b885e6e6626ff7d6de734f6bb5863f33
 SHA1: f5f0d3973ca643a3212ffc076d3482cad4f7651f
@@ -31,7 +31,7 @@ Version: 1.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: debs//immortal.deb
+Filename: /debs/immortal.deb
 Size: 9326
 MD5sum: 48fadf58f71acea4ef0b7f6d024b4b8e
 SHA1: a71c9b56e6ad51468d5e15b2d08e755fde466c69
@@ -45,7 +45,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//bettertextselection.deb
+Filename: /debs/bettertextselection.deb
 Size: 3654
 MD5sum: 4c93db50675282944ea111b0c5cafd2e
 SHA1: 24a7f1c7ed086c239605238d0157dd54cfa71855
@@ -59,7 +59,7 @@ Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//apppercent.deb
+Filename: /debs/apppercent.deb
 Size: 16774
 MD5sum: 60ca6f5a38db4a695a77f9d9f223c728
 SHA1: 54c30d0cd3ee10793c48cf9009ed43abf3f75f81
@@ -73,7 +73,7 @@ Version: 1.0k
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: firmware (>= 10.0)
-Filename: debs//ccrecorder.deb
+Filename: /debs/ccrecorder.deb
 Size: 108380
 MD5sum: fbcb221e917ff39d7ed8f4defd8a817f
 SHA1: b3ec7fd8f90d449fb51547ac29c62f179f8ca37b
@@ -87,7 +87,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//yalutime.deb
+Filename: /debs/yalutime.deb
 Size: 6200
 MD5sum: 43acf366f60fe3edbeb74cec0fcd9439
 SHA1: a142dcb86a709abd17d1c36282e224b3c54b59d0
@@ -101,7 +101,7 @@ Version: 6.0~b1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//appsync.deb
+Filename: /debs/appsync.deb
 Size: 28060
 MD5sum: 08ebf3470673bd5297e8f15e1d8c35da
 SHA1: 4117cdebf3369df220de4330ebc9b7a38dd18442
@@ -115,7 +115,7 @@ Version: 6.5.9
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: cydia
-Filename: debs//cydown.deb
+Filename: /debs/cydown.deb
 Size: 1798944
 MD5sum: df46bf64da28d6c29e23633758a59111
 SHA1: 55b47fae2509ebadef9a689ffca2074dc8dfc105
@@ -129,7 +129,7 @@ Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//spotilife.deb
+Filename: /debs/spotilife.deb
 Size: 46442
 MD5sum: df6967a72845825e3d68f52eb431aa91
 SHA1: fbce20a4a4a66dec8dd64fa5f9ef98e4ce6d4875
