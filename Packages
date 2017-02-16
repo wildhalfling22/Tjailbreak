@@ -1,4 +1,4 @@
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.appcon
 Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -12,7 +12,7 @@ Description: Set icon images from your photo library.
 Author: merdok
 Name: Appcon
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.btdb
 Version: idk
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -21,12 +21,12 @@ Filename: /debs/BloonsTDBattles.deb
 Size: 7468278
 MD5sum: b885e6e6626ff7d6de734f6bb5863f33
 SHA1: f5f0d3973ca643a3212ffc076d3482cad4f7651f
-Section: Tweaks
+Section: Hacks
 Description: Bloons TD Battles Hacks And Cheats.
 Author: IOS Gods
 Name: BloonsTDBattles Hack
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.immortal
 Version: 1.2.1-1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -40,7 +40,7 @@ Description: prevent expiration of signed iOS apps
 Author: Ahmad
 Name: Immortal
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.bettertext
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -54,7 +54,7 @@ Description: fixes the default text selection
 Author: Frozen Penguin
 Name: Better Text Selection
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.apppercent
 Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -68,7 +68,7 @@ Description: Apps Installation in Percent (%) and Notification
 Author: pxcex
 Name: App Percent
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.ccrecorder
 Version: 1.0k
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -82,7 +82,7 @@ Description: Record Your Screen From The Control Center... Cracked
 Author: ijapija00
 Name: CCRecorder
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.yalutime
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -96,7 +96,7 @@ Description: Shows expiration date in yalu102 app when opened.
 Author: Skyler Kansala
 Name: YaluTime
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.appsync
 Version: 6.0~b1
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -110,7 +110,7 @@ Description: AppSync Unified allows you to sync and install unsigned iOS applica
 Author: linas yang, karen tsai
 Name: AppSync Unified
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.cydown
 Version: 6.5.9
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -124,7 +124,7 @@ Description: Cydia download manager and extra features.
 Author: BYA Repo
 Name: CyDown
 
-Package: Tjailbreak.github.io
+Package: Tjailbreak.github.io.spotilife
 Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: Wildhalfling22 <delongkris198@gmail.com>
@@ -133,7 +133,7 @@ Filename: /debs/spotilife.deb
 Size: 46442
 MD5sum: df6967a72845825e3d68f52eb431aa91
 SHA1: fbce20a4a4a66dec8dd64fa5f9ef98e4ce6d4875
-Section: Tweaks
+Section: Hacks
 Description: Spotify Unlimited Skips, Remove Ads, Extreme Quality Stream Unlocked... Requires Spotify App(AppStore)
 Author: BYA Repo
 Name: Spotilife

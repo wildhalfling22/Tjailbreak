@@ -2,8 +2,7 @@ Origin: Tjailbreak's Repo
 Label: Tjailbreak's Repo
 Suite: stable
 Version: 1.0
-Codename: Tjailbreak
+Codename: ion
 Architectures: iphoneos-arm
 Components: main
 Description: Official Tjailbreak Repo
-MD5Sum:
